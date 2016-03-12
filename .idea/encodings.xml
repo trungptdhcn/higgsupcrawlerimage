@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/higgsup/crawlerimage/base/utils/CS.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/higgsup/crawlerimage/base/utils/StringUtils.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/higgsup/crawlerimage/base/utils/Utils.java" charset="windows-1252" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
